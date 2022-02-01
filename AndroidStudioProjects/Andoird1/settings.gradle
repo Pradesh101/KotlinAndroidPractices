@@ -1,0 +1,2 @@
+rootProject.name = "Andoird1"
+include ':app'

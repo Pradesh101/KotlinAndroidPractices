@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Bhaktapur Sales</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login"><b>LOGIN</b></string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forget_password">Forgot Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register"><b>Register</b></string>
+
+    <string name="create_an_account"> <b>CREATE AN ACCOUNT</b></string>
+
+    <string name="hint_last_name">Last name</string>
+    <string name="hint_first_name">First name</string>
+    <string name="et_hint_confirm_password">Confirm Password</string>
+
+    <string name="i_agree_to_terms_and_conditions">I Agree To The <b><u>Terms and Conditions</u></b></string>
+    <string name="btn_lbl_register">Register</string>
+
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login"><b>Login</b></string>
+
+    <string name="err_msg_enter_first_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Password and confirm password does not match.</string>
+    <string name="err_msg_agree_terms_and_conditions">Please agree terms and conditions.</string>
+    <string name="register_successful">You are registered successfully.</string>
+
+    <string name="please_wait">Please Wait...</string>
+
+    <string name="title_forget_password"><b>FORGOT PASSWORD?</b></string>
+    <string name="forgot_password_title_description">Enter your email address,
+    we will send you a link in it to reset your password</string>
+    <string name="btn_lbl_submit">Submit</string>
+
+    <string name="email_sent_success">Email sent successfully to reset your password!!</string>
+    <string name="register_success">You are registered successfully !!</string>
+
+    <string name="title_complete_profile">COMPLETE PROFILE</string>
+    <string name="title_edit_profile">EDIT PROFILE</string>
+    <string name="et_hint_mobile_number">Mobile Number</string>
+    <string name="rb_lbl_male">MALE</string>
+    <string name="rb_lbl_female">FEMALE</string>
+    <string name="btn_lbl_save">Save</string>
+
+    <string name="read_storage_permission_denied">Oops, you just denied the permission for the storage. You can also
+    allow it from the setting</string>
+
+    <string name="image_selection_failed">Image Selection Failed</string>
+
+    <string name="err_msg_enter_enter_mobile_number">Please enter mobile number in correct format</string>
+    <string name="msg_profile_update_success">Your profile is updated successfully.</string>
+
+    <!--    <string name="title_activity_dashboard">MainActivity</string>-->
+    <string name="title_orders">Orders</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_products">Products</string>
+
+    <string name="please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_settings">Setting</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_address">Address</string>
+    <string name="btn_lbl_logout">Logout</string>
+
+</resources>

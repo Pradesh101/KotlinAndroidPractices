@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="technology_list">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>.Net</item>
+        <item>Kotlin</item>
+        <item>Ruby</item>
+        <item>Rails</item>
+        <item>Python</item>
+        <item>Java Script</item>
+        <item>Php</item>
+        <item>Ajax</item>
+        <item>Perl</item>
+        <item>Hadoop</item>
+        <item>AI</item>
+        <item>OOAD</item>
+        <item>Big Data Hadoop</item>
+    </string-array>
+</resources>

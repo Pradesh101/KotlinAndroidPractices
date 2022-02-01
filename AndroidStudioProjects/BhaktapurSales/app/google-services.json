@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560518487307",
+    "project_id": "bhaktapursales",
+    "storage_bucket": "bhaktapursales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560518487307:android:a094658d387d735d6e560e",
+        "android_client_info": {
+          "package_name": "com.pradesh.bhaktapursales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560518487307-ltving73lp9q7gfti82edbs0kg0f4o6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pradesh.bhaktapursales",
+            "certificate_hash": "a253057cd469b16937fdd18156bb7fbd30b7c1da"
+          }
+        },
+        {
+          "client_id": "560518487307-do1173j7e0u6lqh2gaeu7vg9f7d24plc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvqglFtaC8XM6NgaEQdIrkbEfWBPCswOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560518487307-do1173j7e0u6lqh2gaeu7vg9f7d24plc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

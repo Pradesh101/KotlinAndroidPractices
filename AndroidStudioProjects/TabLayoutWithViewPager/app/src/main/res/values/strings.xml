@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayoutWithViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="sport_fragment">Sport Fragment</string>
+    <string name="movie_fragment">Movie Fragment</string>
+</resources>

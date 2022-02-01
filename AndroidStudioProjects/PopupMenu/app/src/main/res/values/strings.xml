@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopupMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_cricket">Cricket</string>
+    <string name="action_football">Football</string>
+    <string name="action_hockey">Hockey</string>
+</resources>

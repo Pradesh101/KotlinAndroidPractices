@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLyoutWithFrameLayout</string>
+
+    <string name="java_fragment">Java Fragment</string>
+    <string name="android_fragment">Android Fragment</string>
+    <string name="kotlin_fragment">Kotlin Fragment</string>
+    <string name="php_fragment">Php Fragment</string>
+    <string name="python_fragment">Python Fragment</string>
+</resources>

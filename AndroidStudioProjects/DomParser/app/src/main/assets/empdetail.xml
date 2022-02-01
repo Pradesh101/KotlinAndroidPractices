@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <records>
+        <employee>
+            <name>Sachin Kumar</name>
+            <salary>50000</salary>
+            <designation>Developer</designation>
+        </employee>
+        <employee>
+            <name>Rahul Kumar</name>
+            <salary>60000</salary>
+            <designation>Team Leader</designation>
+        </employee>
+        <employee>
+            <name>John Mike</name>
+            <salary>70000</salary>
+            <designation>Manager</designation>
+        </employee>
+        <employee>
+            <name>Ajay Kumar</name>
+            <salary>45000</salary>
+            <designation>Developer</designation>
+        </employee>
+        <employee>
+            <name>Toni Nayer</name>
+            <salary>55000</salary>
+            <designation>Marketing</designation>
+        </employee>
+        <employee>
+            <name>Mr Bony</name>
+            <salary>42000</salary>
+            <designation>Sales</designation>
+        </employee>
+        <employee>
+            <name>Raj Kumar</name>
+            <salary>30000</salary>
+            <designation>Production</designation>
+        </employee>
+        <employee>
+            <name>Rahul Kumar</name>
+            <salary>60000</salary>
+            <designation>Team Leader</designation>
+        </employee>
+        <employee>
+            <name>John Mike</name>
+            <salary>70000</salary>
+            <designation>Manager</designation>
+        </employee>
+        <employee>
+            <name>Sachin Kumar</name>
+            <salary>50000</salary>
+            <designation>Developer</designation>
+        </employee>
+        <employee>
+            <name>Rahul Kumar</name>
+            <salary>60000</salary>
+            <designation>Team Leader</designation>
+        </employee>
+        <employee>
+            <name>John Mike</name>
+            <salary>70000</salary>
+            <designation>Manager</designation>
+        </employee>
+    </records>
